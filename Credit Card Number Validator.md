@@ -9,7 +9,7 @@
 * [не распознается карта Visa Electron](https://github.com/avet87/Credit-Card-Number-Validator/issues/1#issue-787805755)
 * [не распознается карта ChinaUnion Pay](https://github.com/avet87/Credit-Card-Number-Validator/issues/2#issue-787806542)
 * [не распознается карта Maestro](https://github.com/avet87/Credit-Card-Number-Validator/issues/3#issue-787807543)
-* не распознается карта American Express
+* [не распознается карта American Express](https://github.com/avet87/Credit-Card-Number-Validator/issues/4#issue-787808365)
 
 **В качестве тестовых данных использовались данные Credit Card Number Generator**
 
