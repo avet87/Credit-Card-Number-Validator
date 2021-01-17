@@ -11,7 +11,7 @@
 * [не распознается карта Maestro](https://github.com/avet87/Credit-Card-Number-Validator/issues/3#issue-787807543)
 * [не распознается карта American Express](https://github.com/avet87/Credit-Card-Number-Validator/issues/4#issue-787808365)
 
-**В качестве тестовых данных использовались данные [Credit Card Number Generator**](https://ccard-generator.com/)
+**В качестве тестовых данных использовались данные** [Credit Card Number Generator](https://ccard-generator.com/)
 
 **Visa**
 * 4841669241018032 ожидаемый результат ОК
