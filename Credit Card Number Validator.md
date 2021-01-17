@@ -7,7 +7,7 @@
 **В результате тестирования выявлены следующие дефекты**
 
 * [не распознается карта Visa Electron](https://github.com/avet87/Credit-Card-Number-Validator/issues/1#issue-787805755)
-* не распознается карта ChinaUnion Pay
+* [не распознается карта ChinaUnion Pay](https://github.com/avet87/Credit-Card-Number-Validator/issues/2#issue-787806542)
 * не распознается карта Maestro
 * не распознается карта American Express
 
